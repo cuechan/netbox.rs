@@ -2,6 +2,11 @@
 
 this release captures the current state of the project. no prior published state exists for comparison.
 
+## [0.10.1] - 2026-10-14
+
+### cli
+- release binaries are built against rustls 0.23.46, which fixes RUSTSEC-2026-0346, 0347, 0348 and 0349
+
 ## [0.10.0] - 2026-10-14
 
 ### cli
