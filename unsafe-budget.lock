@@ -325,7 +325,7 @@ unsafe_count = 20
 [[units]]
 name = "tokio"
 kind = "dep"
-unsafe_count = 729
+unsafe_count = 733
 
 [[units]]
 name = "tracing"
